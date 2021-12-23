@@ -1,0 +1,9 @@
+﻿  Render.cpp
+E:\Work\YCHEBA\grafika_lab2-master\OpenGLrememberProj\Render.cpp(116,31): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+E:\Work\YCHEBA\grafika_lab2-master\OpenGLrememberProj\Render.cpp(116,40): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+E:\Work\YCHEBA\grafika_lab2-master\OpenGLrememberProj\Render.cpp(116,49): warning C4838: Преобразование из "double" в "GLfloat" требует сужающего преобразования.
+E:\Work\YCHEBA\grafika_lab2-master\OpenGLrememberProj\Render.cpp(509,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Work\YCHEBA\grafika_lab2-master\OpenGLrememberProj\Render.cpp(516,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Work\YCHEBA\grafika_lab2-master\OpenGLrememberProj\Render.cpp(618,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Work\YCHEBA\grafika_lab2-master\OpenGLrememberProj\Render.cpp(631,20): warning C4018: <: несоответствие типов со знаком и без знака
+  OpenGLrememberProj.vcxproj -> E:\Work\YCHEBA\grafika_lab2-master\Debug\OpenGLrememberProj.exe
